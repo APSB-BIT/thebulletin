@@ -5,7 +5,7 @@ class NewsTest(unittest.TestCase):
     def setUp(self):
         self.articles = Articles(
             "Techcrunch", 
-            "Steve Njuguna", 
+            "AMRITPAL SINGH , HIMANSHU", 
             "Nike acquires NFT collectibles studio RTFKT", 
             "Nike is taking a plunge deeper into the world of crypto collectibles, announcing that they’re acquiring the NFT studio RTFKT (pronounced “artifact”). The acquisition announcement ...", 
             "https://techcrunch.com/2021/12/13/nike-acquires-nft-collectibles-studio-rtfkt/", 
