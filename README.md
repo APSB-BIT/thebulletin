@@ -69,7 +69,7 @@ main.py
 
 ## Contact Information
 
-If you have any question or contributions, please find us on [LinkedIn-Amritpal Singh ](https://www.linkedin.com/in/amritpal-singh-85892b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [LinkedIn-Himanshu ](https://www.linkedin.com/in/amritpal-singh-85892b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+If you have any question or contributions, please find us on [LinkedIn-Amritpal Singh ](https://www.linkedin.com/in/amritpal-singh-85892b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [LinkedIn-Himanshu ](https://www.linkedin.com/in/himanshu-walia-237998336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 © 2024 Amritpal Singh, Himanshu
 
